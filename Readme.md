@@ -8,20 +8,20 @@
      
 **Project 2**
 
-[Go to Project 2](./HTML%20%26%20CSS%20Assignment/Project%2002/Readme.md)
+[Go to Project 2](https://github.com/nitinsoni-coder/FSJS2.0/tree/main/HTML%20%26%20CSS%20Assignments/Project%2002)
 
 **Project 3**
 
-[Go to Project 3](./HTML%20%26%20CSS%20Assignment/Project%2003/Readme.md)
+[Go to Project 3](https://github.com/nitinsoni-coder/FSJS2.0/tree/main/HTML%20%26%20CSS%20Assignments/Project%2003)
 
 **Project 4**
 
-[Go to Project 4](./HTML%20%26%20CSS%20Assignment/Project%2004/Readme.md)
+[Go to Project 4](https://github.com/nitinsoni-coder/FSJS2.0/tree/main/HTML%20%26%20CSS%20Assignments/Project%2004)
 
 **Project 5**
 
-[Go to Project 5](./HTML%20%26%20CSS%20Assignment/Project%2005/Readme.md)
+[Go to Project 5](https://github.com/nitinsoni-coder/FSJS2.0/tree/main/HTML%20%26%20CSS%20Assignments/Project%2005)
 
 **Project 6**
 
-[Go to Project 6](./HTML%20%26%20CSS%20Assignment/Project%2006/Readme.md)
+[Go to Project 6](https://github.com/nitinsoni-coder/FSJS2.0/tree/main/HTML%20%26%20CSS%20Assignments/Project%2006)
