@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+}
+
+/* css for navbar */
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: #0D0D0D;
+    color: #ffff;
+    height: 80px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    position: relative;
+    right: 300px;
+}
+
+.list-item{
+    margin-right: 50px;
+}
+
+.button-small{
+    border-radius: 5px;
+    padding: 10px 40px 10px 40px;
+    background-color: #ba0cc5;
+    color: #ffff;
+    border-radius: 10px;
+    border: 0px;
+    cursor: pointer;
+}
+
+.logo{
+    height: 30px;
+    width: 90px;
+}
+
+.line{
+    color: rgb(124, 119, 119);
+}
+
+/* css for bottom container */
+.bgimg{
+    width:100%;
+    height: 100%;
+}
+
+.hero-heading{
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    color: #ffff;
+    font-size: 80px;
+    font-weight: 700px;
+    width: 700px;
+    height: 10px;
+}
+
+.hero-description{
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    color: #ffff;
+    font-size: 25px;
+}
+
+.button-large{
+    position: absolute;
+    top: 580px;
+    left: 640px;
+    padding: 20px 10px;
+    border: 0px;
+    background-color: #ba0cc5;
+    color: #ffff;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}

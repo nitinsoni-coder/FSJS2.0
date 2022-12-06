@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #2b2923;
+    color: #ffff;
+}
+
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+/* css for nav section */
+
+nav{
+    padding: 20px 15%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+
+nav img {
+  height: 40px;
+}
+
+nav ul{
+    display: flex;
+    margin-left: 40%;
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 20px;
+}
+
+button{
+     color: #C7C11A;
+     border: 1px solid #C7C11A;
+     padding: 10px 20px;
+     border-radius: 10px;
+     font-weight: 600;
+     font-size: 15px;
+}
+
+/* css for upper section */
+main {
+    padding: 20px 15%;
+    margin: 60px 0px;
+}
+
+.uppersection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.uppersection h1{
+    font-size: 60px;
+    font-weight: 700;
+    margin-right: 90px;
+    width: 50%;
+}
+
+.uppersection p{
+    padding-left: 65px;
+    font-size: 20px;
+    width: 50%;
+}
+
+/*  css for lower section */
+
+.lowersection img{
+    width: 100%;
+}
