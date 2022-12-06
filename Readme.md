@@ -4,7 +4,7 @@
 
 **Project 1**
 
-[Go to Project 1](./HTML%20%26%20CSS%20Assignment/Project%2001/Readme.md)
+[Go to Project 1](https://github.com/nitinsoni-coder/FSJS2.0/tree/main/HTML%20%26%20CSS%20Assignments/Project%2001)
      
 **Project 2**
 
